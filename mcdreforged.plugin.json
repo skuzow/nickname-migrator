@@ -1,0 +1,14 @@
+{
+    "id": "nickname_migrator",
+    "version": "0.0.1",
+    "name": "NicknameMigrator",
+    "description": "Nickname migrator helper",
+    "author": "skuzow",
+    "link": "https://github.com/skuzow/nickname-migrator",
+    "dependencies": {
+        "mcdreforged": ">=2.0.0"
+    },
+    "resources": [
+        "LICENSE"
+    ]
+}
