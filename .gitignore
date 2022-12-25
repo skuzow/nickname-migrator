@@ -134,3 +134,6 @@ dmypy.json
 # MCDR
 *.mcdr
 *.pyz
+
+# Mac
+.DS_Store
